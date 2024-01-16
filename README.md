@@ -12,7 +12,7 @@ Welcome to my photography portfolio! This repository showcases my passion for ph
 ## Preview
 [![Portfolio Preview](path/to/your/preview/image.jpg)](link/to/your/gh-pages)
 
-Check out the live preview [here](link/to/your/gh-pages).
+Check out the live preview [here]([https://ryanschnar.github.io/Photographobia/]).
 
 ## Files
 - **index.html:** The main HTML file that structures the webpage.

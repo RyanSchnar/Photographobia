@@ -3,7 +3,6 @@
 Welcome to my photographobia! A website with several articles about photography.
 
 ## Table of Contents
-- [Preview](#preview)
 - [Files](#files)
 - [Usage](#usage)
 - [Contributing](#contributing)
